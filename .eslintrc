@@ -56,6 +56,7 @@
     "no-alert": 0,
     "no-lone-blocks": 0,
     "jsx-quotes": [0, "prefer-single"],
+    "no-constant-condition": ["error", { "checkLoops": false }],
     "react/display-name": [
       1,
       {

@@ -1,0 +1,532 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tests for <Week /> should match week SnapShot 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Week
+    day={"2018-04-01T05:00:00.000Z"}
+    month={3}
+  />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <Day
+          day={"2018-04-01T05:00:00.000Z"}
+          excludeDates={undefined}
+          filterDate={undefined}
+          includeDates={undefined}
+          maxDate={undefined}
+          minDate={undefined}
+          month={3}
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          preSelection={undefined}
+          selected={undefined}
+        />,
+        <Day
+          day={"2018-04-02T05:00:00.000Z"}
+          excludeDates={undefined}
+          filterDate={undefined}
+          includeDates={undefined}
+          maxDate={undefined}
+          minDate={undefined}
+          month={3}
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          preSelection={undefined}
+          selected={undefined}
+        />,
+        <Day
+          day={"2018-04-03T05:00:00.000Z"}
+          excludeDates={undefined}
+          filterDate={undefined}
+          includeDates={undefined}
+          maxDate={undefined}
+          minDate={undefined}
+          month={3}
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          preSelection={undefined}
+          selected={undefined}
+        />,
+        <Day
+          day={"2018-04-04T05:00:00.000Z"}
+          excludeDates={undefined}
+          filterDate={undefined}
+          includeDates={undefined}
+          maxDate={undefined}
+          minDate={undefined}
+          month={3}
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          preSelection={undefined}
+          selected={undefined}
+        />,
+        <Day
+          day={"2018-04-05T05:00:00.000Z"}
+          excludeDates={undefined}
+          filterDate={undefined}
+          includeDates={undefined}
+          maxDate={undefined}
+          minDate={undefined}
+          month={3}
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          preSelection={undefined}
+          selected={undefined}
+        />,
+        <Day
+          day={"2018-04-06T05:00:00.000Z"}
+          excludeDates={undefined}
+          filterDate={undefined}
+          includeDates={undefined}
+          maxDate={undefined}
+          minDate={undefined}
+          month={3}
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          preSelection={undefined}
+          selected={undefined}
+        />,
+        <Day
+          day={"2018-04-07T05:00:00.000Z"}
+          excludeDates={undefined}
+          filterDate={undefined}
+          includeDates={undefined}
+          maxDate={undefined}
+          minDate={undefined}
+          month={3}
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          preSelection={undefined}
+          selected={undefined}
+        />,
+      ],
+      "className": "cui-datepicker__week",
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": "0",
+        "nodeType": "class",
+        "props": Object {
+          "day": "2018-04-01T05:00:00.000Z",
+          "excludeDates": undefined,
+          "filterDate": undefined,
+          "includeDates": undefined,
+          "maxDate": undefined,
+          "minDate": undefined,
+          "month": 3,
+          "onClick": [Function],
+          "onMouseEnter": [Function],
+          "preSelection": undefined,
+          "selected": undefined,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "1",
+        "nodeType": "class",
+        "props": Object {
+          "day": "2018-04-02T05:00:00.000Z",
+          "excludeDates": undefined,
+          "filterDate": undefined,
+          "includeDates": undefined,
+          "maxDate": undefined,
+          "minDate": undefined,
+          "month": 3,
+          "onClick": [Function],
+          "onMouseEnter": [Function],
+          "preSelection": undefined,
+          "selected": undefined,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "2",
+        "nodeType": "class",
+        "props": Object {
+          "day": "2018-04-03T05:00:00.000Z",
+          "excludeDates": undefined,
+          "filterDate": undefined,
+          "includeDates": undefined,
+          "maxDate": undefined,
+          "minDate": undefined,
+          "month": 3,
+          "onClick": [Function],
+          "onMouseEnter": [Function],
+          "preSelection": undefined,
+          "selected": undefined,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "3",
+        "nodeType": "class",
+        "props": Object {
+          "day": "2018-04-04T05:00:00.000Z",
+          "excludeDates": undefined,
+          "filterDate": undefined,
+          "includeDates": undefined,
+          "maxDate": undefined,
+          "minDate": undefined,
+          "month": 3,
+          "onClick": [Function],
+          "onMouseEnter": [Function],
+          "preSelection": undefined,
+          "selected": undefined,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "4",
+        "nodeType": "class",
+        "props": Object {
+          "day": "2018-04-05T05:00:00.000Z",
+          "excludeDates": undefined,
+          "filterDate": undefined,
+          "includeDates": undefined,
+          "maxDate": undefined,
+          "minDate": undefined,
+          "month": 3,
+          "onClick": [Function],
+          "onMouseEnter": [Function],
+          "preSelection": undefined,
+          "selected": undefined,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "5",
+        "nodeType": "class",
+        "props": Object {
+          "day": "2018-04-06T05:00:00.000Z",
+          "excludeDates": undefined,
+          "filterDate": undefined,
+          "includeDates": undefined,
+          "maxDate": undefined,
+          "minDate": undefined,
+          "month": 3,
+          "onClick": [Function],
+          "onMouseEnter": [Function],
+          "preSelection": undefined,
+          "selected": undefined,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6",
+        "nodeType": "class",
+        "props": Object {
+          "day": "2018-04-07T05:00:00.000Z",
+          "excludeDates": undefined,
+          "filterDate": undefined,
+          "includeDates": undefined,
+          "maxDate": undefined,
+          "minDate": undefined,
+          "month": 3,
+          "onClick": [Function],
+          "onMouseEnter": [Function],
+          "preSelection": undefined,
+          "selected": undefined,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <Day
+            day={"2018-04-01T05:00:00.000Z"}
+            excludeDates={undefined}
+            filterDate={undefined}
+            includeDates={undefined}
+            maxDate={undefined}
+            minDate={undefined}
+            month={3}
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+            preSelection={undefined}
+            selected={undefined}
+          />,
+          <Day
+            day={"2018-04-02T05:00:00.000Z"}
+            excludeDates={undefined}
+            filterDate={undefined}
+            includeDates={undefined}
+            maxDate={undefined}
+            minDate={undefined}
+            month={3}
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+            preSelection={undefined}
+            selected={undefined}
+          />,
+          <Day
+            day={"2018-04-03T05:00:00.000Z"}
+            excludeDates={undefined}
+            filterDate={undefined}
+            includeDates={undefined}
+            maxDate={undefined}
+            minDate={undefined}
+            month={3}
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+            preSelection={undefined}
+            selected={undefined}
+          />,
+          <Day
+            day={"2018-04-04T05:00:00.000Z"}
+            excludeDates={undefined}
+            filterDate={undefined}
+            includeDates={undefined}
+            maxDate={undefined}
+            minDate={undefined}
+            month={3}
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+            preSelection={undefined}
+            selected={undefined}
+          />,
+          <Day
+            day={"2018-04-05T05:00:00.000Z"}
+            excludeDates={undefined}
+            filterDate={undefined}
+            includeDates={undefined}
+            maxDate={undefined}
+            minDate={undefined}
+            month={3}
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+            preSelection={undefined}
+            selected={undefined}
+          />,
+          <Day
+            day={"2018-04-06T05:00:00.000Z"}
+            excludeDates={undefined}
+            filterDate={undefined}
+            includeDates={undefined}
+            maxDate={undefined}
+            minDate={undefined}
+            month={3}
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+            preSelection={undefined}
+            selected={undefined}
+          />,
+          <Day
+            day={"2018-04-07T05:00:00.000Z"}
+            excludeDates={undefined}
+            filterDate={undefined}
+            includeDates={undefined}
+            maxDate={undefined}
+            minDate={undefined}
+            month={3}
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+            preSelection={undefined}
+            selected={undefined}
+          />,
+        ],
+        "className": "cui-datepicker__week",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": "0",
+          "nodeType": "class",
+          "props": Object {
+            "day": "2018-04-01T05:00:00.000Z",
+            "excludeDates": undefined,
+            "filterDate": undefined,
+            "includeDates": undefined,
+            "maxDate": undefined,
+            "minDate": undefined,
+            "month": 3,
+            "onClick": [Function],
+            "onMouseEnter": [Function],
+            "preSelection": undefined,
+            "selected": undefined,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "1",
+          "nodeType": "class",
+          "props": Object {
+            "day": "2018-04-02T05:00:00.000Z",
+            "excludeDates": undefined,
+            "filterDate": undefined,
+            "includeDates": undefined,
+            "maxDate": undefined,
+            "minDate": undefined,
+            "month": 3,
+            "onClick": [Function],
+            "onMouseEnter": [Function],
+            "preSelection": undefined,
+            "selected": undefined,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "2",
+          "nodeType": "class",
+          "props": Object {
+            "day": "2018-04-03T05:00:00.000Z",
+            "excludeDates": undefined,
+            "filterDate": undefined,
+            "includeDates": undefined,
+            "maxDate": undefined,
+            "minDate": undefined,
+            "month": 3,
+            "onClick": [Function],
+            "onMouseEnter": [Function],
+            "preSelection": undefined,
+            "selected": undefined,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "3",
+          "nodeType": "class",
+          "props": Object {
+            "day": "2018-04-04T05:00:00.000Z",
+            "excludeDates": undefined,
+            "filterDate": undefined,
+            "includeDates": undefined,
+            "maxDate": undefined,
+            "minDate": undefined,
+            "month": 3,
+            "onClick": [Function],
+            "onMouseEnter": [Function],
+            "preSelection": undefined,
+            "selected": undefined,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "4",
+          "nodeType": "class",
+          "props": Object {
+            "day": "2018-04-05T05:00:00.000Z",
+            "excludeDates": undefined,
+            "filterDate": undefined,
+            "includeDates": undefined,
+            "maxDate": undefined,
+            "minDate": undefined,
+            "month": 3,
+            "onClick": [Function],
+            "onMouseEnter": [Function],
+            "preSelection": undefined,
+            "selected": undefined,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "5",
+          "nodeType": "class",
+          "props": Object {
+            "day": "2018-04-06T05:00:00.000Z",
+            "excludeDates": undefined,
+            "filterDate": undefined,
+            "includeDates": undefined,
+            "maxDate": undefined,
+            "minDate": undefined,
+            "month": 3,
+            "onClick": [Function],
+            "onMouseEnter": [Function],
+            "preSelection": undefined,
+            "selected": undefined,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6",
+          "nodeType": "class",
+          "props": Object {
+            "day": "2018-04-07T05:00:00.000Z",
+            "excludeDates": undefined,
+            "filterDate": undefined,
+            "includeDates": undefined,
+            "maxDate": undefined,
+            "minDate": undefined,
+            "month": 3,
+            "onClick": [Function],
+            "onMouseEnter": [Function],
+            "preSelection": undefined,
+            "selected": undefined,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+      ],
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactFifteenAdapter {
+      "options": Object {
+        "supportPrevContextArgumentOfComponentDidUpdate": true,
+      },
+    },
+  },
+}
+`;

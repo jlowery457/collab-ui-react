@@ -26,6 +26,7 @@ export { default as CloseIcon } from './CloseIcon';
 export { default as Coachmark } from './Coachmark';
 export { default as CompositeAvatar } from './CompositeAvatar';
 export { default as CollapseButton } from './CollapseButton';
+export { default as DatePicker } from './Datepicker';
 export { default as Dropdown } from './Dropdown';
 export { default as DropdownMenu } from './DropdownMenu';
 export { default as EditableTextfield } from './EditableTextfield';

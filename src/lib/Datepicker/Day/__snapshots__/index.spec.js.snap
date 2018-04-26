@@ -1,0 +1,220 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tests for <Day /> should match day SnapShot 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Day
+    day={"2018-04-01T05:00:00.000Z"}
+    month={3}
+  />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": <div
+        aria-label="day-1"
+        aria-selected={false}
+        className="cui-datepicker__day"
+        onClick={[Function]}
+        onKeyPress={[Function]}
+        onMouseEnter={[Function]}
+        role="option"
+        tabIndex="0"
+      >
+        1
+      </div>,
+      "className": "cui-datepicker__day-container",
+    },
+    "ref": null,
+    "rendered": Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "aria-label": "day-1",
+        "aria-selected": false,
+        "children": 1,
+        "className": "cui-datepicker__day",
+        "onClick": [Function],
+        "onKeyPress": [Function],
+        "onMouseEnter": [Function],
+        "role": "option",
+        "tabIndex": "0",
+      },
+      "ref": null,
+      "rendered": 1,
+      "type": "div",
+    },
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": <div
+          aria-label="day-1"
+          aria-selected={false}
+          className="cui-datepicker__day"
+          onClick={[Function]}
+          onKeyPress={[Function]}
+          onMouseEnter={[Function]}
+          role="option"
+          tabIndex="0"
+        >
+          1
+        </div>,
+        "className": "cui-datepicker__day-container",
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "aria-label": "day-1",
+          "aria-selected": false,
+          "children": 1,
+          "className": "cui-datepicker__day",
+          "onClick": [Function],
+          "onKeyPress": [Function],
+          "onMouseEnter": [Function],
+          "role": "option",
+          "tabIndex": "0",
+        },
+        "ref": null,
+        "rendered": 1,
+        "type": "div",
+      },
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactFifteenAdapter {
+      "options": Object {
+        "supportPrevContextArgumentOfComponentDidUpdate": true,
+      },
+    },
+  },
+}
+`;
+
+exports[`tests for <Day /> should match selected day SnapShot 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Day
+    day={"2018-04-01T05:00:00.000Z"}
+    month={3}
+    selected={"2018-04-01T05:00:00.000Z"}
+  />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": <div
+        aria-label="day-1"
+        aria-selected={true}
+        className="cui-datepicker__day cui-datepicker__day--selected"
+        onClick={[Function]}
+        onKeyPress={[Function]}
+        onMouseEnter={[Function]}
+        role="option"
+        tabIndex="0"
+      >
+        1
+      </div>,
+      "className": "cui-datepicker__day-container",
+    },
+    "ref": null,
+    "rendered": Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "aria-label": "day-1",
+        "aria-selected": true,
+        "children": 1,
+        "className": "cui-datepicker__day cui-datepicker__day--selected",
+        "onClick": [Function],
+        "onKeyPress": [Function],
+        "onMouseEnter": [Function],
+        "role": "option",
+        "tabIndex": "0",
+      },
+      "ref": null,
+      "rendered": 1,
+      "type": "div",
+    },
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": <div
+          aria-label="day-1"
+          aria-selected={true}
+          className="cui-datepicker__day cui-datepicker__day--selected"
+          onClick={[Function]}
+          onKeyPress={[Function]}
+          onMouseEnter={[Function]}
+          role="option"
+          tabIndex="0"
+        >
+          1
+        </div>,
+        "className": "cui-datepicker__day-container",
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "aria-label": "day-1",
+          "aria-selected": true,
+          "children": 1,
+          "className": "cui-datepicker__day cui-datepicker__day--selected",
+          "onClick": [Function],
+          "onKeyPress": [Function],
+          "onMouseEnter": [Function],
+          "role": "option",
+          "tabIndex": "0",
+        },
+        "ref": null,
+        "rendered": 1,
+        "type": "div",
+      },
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactFifteenAdapter {
+      "options": Object {
+        "supportPrevContextArgumentOfComponentDidUpdate": true,
+      },
+    },
+  },
+}
+`;
